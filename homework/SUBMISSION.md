@@ -4,7 +4,7 @@
 
 ## Ссылка на репозиторий с заданием
 
-- Repo URL: [`<вставьте ссылку на ваш репозиторий>`](https://github.com/mukhametzyanova27-coder/learn-rag)
+- Repo URL: https://github.com/mukhametzyanova27-coder/learn-rag
 
 ## Автор
 
